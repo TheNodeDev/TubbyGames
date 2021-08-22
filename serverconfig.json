@@ -1,0 +1,14 @@
+{
+    "Mainpage":
+    {
+        "Page": "/"
+    },
+    "TubbyGames":
+    {
+        "Page": "/TubbyGames"
+    },
+    "Rhythm_Pog":
+    {
+        "Page": "/RhythmPog"
+    }
+}
